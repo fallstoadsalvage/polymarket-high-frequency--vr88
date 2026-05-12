@@ -1,4 +1,4 @@
-# 
+# Enhance your Polymarket trading with quantitative Polymarket Plugin | event-driven-trading + multi-exchange-support, the #1 plugin. Includes event-driven-trading and
 
 
 
